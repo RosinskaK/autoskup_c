@@ -12,6 +12,8 @@ When the website owner makes it available online, I will provide the link here ð
 
 ## Screenshots
 
+coming soon!! ðŸ˜Š
+<!--
 <div align="center"> 
   <img src="./public/desktopmain.png" alt="screenshot" />
     <img src="./public/desktop.signin.png" alt="screenshot" width="405" height="auto"/>
@@ -23,6 +25,7 @@ When the website owner makes it available online, I will provide the link here ð
   <img src='./public/mobilemaindone.png' alt="screenshot" width="300" height="auto"/>
   <img src='./public/mobilesignup.png' alt="screenshot" width="300" height="auto"/>
 </div>
+-->
 
 ## About the Project
 
