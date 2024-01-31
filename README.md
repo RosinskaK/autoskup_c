@@ -1,13 +1,14 @@
 # Auto Skup - commercial project
 Commercial project for a trading company. 
 
-If you want to know more about this project contact me directly on github or via <a href="rosinska.eu@gmail.com" target="_blank" rel="noreferrer" rel="noopener"> mail </a>.
+✅If you would like to learn more about this project, please contact me directly on GitHub or via email: rosinska.eu@gmail.com 
 
 I independently designed and implemented this website for a motor industry trading company. I managed the complete development cycle, starting from requirements analysis to UI design and its execution.
                                       
 Project built in React💙
 
-When the website owner makes it available online I'll give the link here 🌐
+When the website owner makes it available online, I will provide the link here 🌐
+
 
 ## Screenshots
 
@@ -25,14 +26,14 @@ When the website owner makes it available online I'll give the link here 🌐
 
 ## About the Project
 
-Auto Skup is a commercial project, a two-page website, consisting of Home and Contact pages. To build it, I used React, Vite, MUI - responsive NavBar, and SCSS. Thanks to the applied Flexbox and responsive web design (RWD) the website is highly responsive and looks good on every device.
+Auto Skup is a commercial project, comprising a two-page website with Home and Contact pages. It was built using React, Vite, and MUI for a responsive NavBar, and styled with Sass. The application of Flexbox and responsive web design (RWD) ensures the website is highly responsive, appearing well on all devices.
 
 📱This website is also accessible in a mobile version.
 
 
 ## Usage
 
-
+Auto Skup is a simple website that functions like a landing page, advertising the services of its owner. It provides information about possible forms of contact with the seller, details about the company, and highlights the benefits associated with its services for the visitors.
 
 
 ## Technologies Used
@@ -60,11 +61,11 @@ Auto Skup is a commercial project, a two-page website, consisting of Home and Co
 - [Pexels](https://www.pexels.com/pl-pl/)
 - [Canva](https://www.canva.com/)
 
-The entire website was designed in Canva, photos used in this project are from Canva nad Pexels.
+✨The entire website was designed in Canva, photos used in this project are from Canva nad Pexels.
 
 
 ## Contact
 
 Created by Kasia Rosińska [@RosinskaK](https://github.com/RosinskaK) - feel free to contact me! 👋
 
-➡️ You can find this website here: 
+➡️ You can find this website here: *When the website owner makes it available online, I will provide the link here*
