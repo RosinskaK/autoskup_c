@@ -19,20 +19,18 @@ Auto Skup is a commercial project, comprising a two-page website with Home and C
 
 ## Screenshots
 
-coming soon!! 😊
-<!--
 <div align="center"> 
-  <img src="./public/desktopmain.png" alt="screenshot" />
-    <img src="./public/desktop.signin.png" alt="screenshot" width="405" height="auto"/>
-  <img src="./public/desktopmaininstructions.png" alt="screenshot" width="405" height="auto"/>
-  <img src="./public/desktopmaindone.png" alt="screenshot" />
-  <img src='./public/desktopsignup.png' alt="screenshot" />
-  <img src='./public/mobilemain.png' alt="screenshot" width="300" height="auto" />
-  <img src='./public/mobilesignin.png' alt="screenshot" width="300" height="auto"/>
-  <img src='./public/mobilemaindone.png' alt="screenshot" width="300" height="auto"/>
-  <img src='./public/mobilesignup.png' alt="screenshot" width="300" height="auto"/>
+  <img src="./public/as1.png" alt="screenshot" />
+  <img src="./public/as2.png" alt="screenshot" />
+  <img src="./public/as3.png" alt="screenshot" />
+  <img src="./public/as4.png" alt="screenshot" width="405" height="auto" />
+  <img src='./public/as5.png' alt="screenshot" width="405" height="auto" />
+  <img src='./public/ask.png' alt="screenshot" />
+  <img src='./public/asm1.png' alt="screenshot" />
+  <img src='./public/asm3.png' alt="screenshot" />
+  <img src='./public/asm2.png' alt="screenshot" width="405" height="auto"/>
+  <img src='./public/asm4.png' alt="screenshot" width="405" height="auto"/>
 </div>
--->
 
 
 ## Usage
