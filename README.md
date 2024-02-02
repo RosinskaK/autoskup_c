@@ -1,5 +1,5 @@
 # Auto Skup - commercial project
-Commercial project for a trading company. 
+Commercial project for a trading company. Due to the commercial nature of the project, the original project file is located in a private repository. Here you can find screenshots of the created website and basic information about it.
 
 ✅If you would like to learn more about this project, please contact me directly on GitHub or via email: rosinska.eu@gmail.com 
 
@@ -8,6 +8,13 @@ I independently designed and implemented this website for a motor industry tradi
 Project built in React💙
 
 When the website owner makes it available online, I will provide the link here 🌐
+
+
+## About the Project
+
+Auto Skup is a commercial project, comprising a two-page website with Home and Contact pages. It was built using React, Vite, and MUI for a responsive NavBar, and styled with Sass. The application of Flexbox and responsive web design (RWD) ensures the website is highly responsive, appearing well on all devices.
+
+📱This website is also accessible in a mobile version.
 
 
 ## Screenshots
@@ -26,12 +33,6 @@ coming soon!! 😊
   <img src='./public/mobilesignup.png' alt="screenshot" width="300" height="auto"/>
 </div>
 -->
-
-## About the Project
-
-Auto Skup is a commercial project, comprising a two-page website with Home and Contact pages. It was built using React, Vite, and MUI for a responsive NavBar, and styled with Sass. The application of Flexbox and responsive web design (RWD) ensures the website is highly responsive, appearing well on all devices.
-
-📱This website is also accessible in a mobile version.
 
 
 ## Usage
