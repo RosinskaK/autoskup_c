@@ -24,10 +24,10 @@ Auto Skup is a commercial project, comprising a two-page website with Home and C
   <img src="./public/as2.png" alt="screenshot" />
   <img src="./public/as3.png" alt="screenshot" />
   <img src="./public/as4.png" alt="screenshot" width="405" height="auto" />
-  <img src='./public/as5.png' alt="screenshot" width="405" height="auto" />
-  <img src='./public/ask.png' alt="screenshot" />
+<!--   <img src='./public/as5.png' alt="screenshot" width="405" height="auto" /> -->
+<!--   <img src='./public/ask.png' alt="screenshot" /> -->
   <img src='./public/asm1.png' alt="screenshot" />
-  <img src='./public/asm3.png' alt="screenshot" />
+<!--   <img src='./public/asm3.png' alt="screenshot" /> -->
   <img src='./public/asm2.png' alt="screenshot" width="405" height="auto"/>
   <img src='./public/asm4.png' alt="screenshot" width="405" height="auto"/>
 </div>
