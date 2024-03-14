@@ -7,7 +7,7 @@ I independently designed and implemented this website for a motor industry tradi
                                       
 Project built in React💙
 
-When the website owner makes it available online, I will provide the link here 🌐
+Link to the project 🌐 [AutoSkup Kraków](https://autoskup-krk.pl/)
 
 
 ## About the Project
@@ -70,4 +70,4 @@ Auto Skup is a simple website that functions like a landing page, advertising th
 
 Created by Kasia Rosińska [@RosinskaK](https://github.com/RosinskaK) - feel free to contact me! 👋
 
-➡️ You can find this website here: *When the website owner makes it available online, I will provide the link here*
+➡️ You can find this website here: [AutoSkup Kraków](https://autoskup-krk.pl/)
